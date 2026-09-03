@@ -403,7 +403,6 @@
 -r:"Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/TextMateSharp/TextMateSharpPlastic.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/unityplastic.dll"
--r:"Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"

@@ -401,7 +401,6 @@
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.11f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.11f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.11f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll"
--r:"Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.ide.rider@e4950c6d131b/Rider/Editor/JetBrains.Rider.PathLocator.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
